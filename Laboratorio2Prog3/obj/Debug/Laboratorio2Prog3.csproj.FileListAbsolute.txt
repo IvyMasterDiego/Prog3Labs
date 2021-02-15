@@ -1,0 +1,9 @@
+C:\Users\dlobato\Desktop\Lab2\Laboratorio2Prog3\Laboratorio2Prog3\bin\Debug\MyData.mdf
+C:\Users\dlobato\Desktop\Lab2\Laboratorio2Prog3\Laboratorio2Prog3\bin\Debug\MyData_log.ldf
+C:\Users\dlobato\Desktop\Lab2\Laboratorio2Prog3\Laboratorio2Prog3\bin\Debug\Laboratorio2Prog3.exe.config
+C:\Users\dlobato\Desktop\Lab2\Laboratorio2Prog3\Laboratorio2Prog3\bin\Debug\Laboratorio2Prog3.exe
+C:\Users\dlobato\Desktop\Lab2\Laboratorio2Prog3\Laboratorio2Prog3\bin\Debug\Laboratorio2Prog3.pdb
+C:\Users\dlobato\Desktop\Lab2\Laboratorio2Prog3\Laboratorio2Prog3\obj\Debug\Laboratorio2Prog3.csprojAssemblyReference.cache
+C:\Users\dlobato\Desktop\Lab2\Laboratorio2Prog3\Laboratorio2Prog3\obj\Debug\Laboratorio2Prog3.csproj.CoreCompileInputs.cache
+C:\Users\dlobato\Desktop\Lab2\Laboratorio2Prog3\Laboratorio2Prog3\obj\Debug\Laboratorio2Prog3.exe
+C:\Users\dlobato\Desktop\Lab2\Laboratorio2Prog3\Laboratorio2Prog3\obj\Debug\Laboratorio2Prog3.pdb
